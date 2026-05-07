@@ -3,7 +3,7 @@ This repository provides the implementation of a Transformer-enhanced U-Net fram
 
 The model learns a mapping from geometry-aware nozzle representations to multi-physics flow fields, including pressure, temperature, and velocity. The goal is to provide a fast surrogate model for design-oriented nozzle flow analysis while retaining the ability to capture key flow structures such as shock waves, expansion regions, and shock-induced separation.
 
-![Overview](asset/FIG_1.png)
+![Overview](asset/Fig0.png)
 
 ## 🚀 Highlights
 
@@ -16,15 +16,13 @@ The model learns a mapping from geometry-aware nozzle representations to multi-p
 
 ## 🛠️ Model Architecture
 
-![Model Architecture_1](asset/FIG_2.png)
-
-![Model Architecture_2](asset/FIG_3.png)
+![Model Architecture_1](asset/Fig6.png)
 
 
 ## 📊 Results
-![Result_1](asset/FIG_4.png)
-![Result_2](asset/FIG_5.png)
-![Result_3](asset/FIG_6.png)
+![Result_1](asset/Fig6.png)
+![Result_2](asset/Fig9.png)
+![Result_3](asset/Fig13.png)
 
 ## 📧 Contact
 Since our paper is currently under review, the detailed code and dataset will be uploaded after the paper is accepted. If you need the code and dataset recently, please contact us: Jinheng Yang: 124101022118@njust.edu.cn
