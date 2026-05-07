@@ -20,8 +20,8 @@ The model learns a mapping from geometry-aware nozzle representations to multi-p
 
 
 ## 📊 Results
-![Result_1](asset/Fig6.png)
-![Result_2](asset/Fig9.png)
+![Result_1](asset/Fig9.png)
+![Result_2](asset/Fig10.png)
 ![Result_3](asset/Fig13.png)
 
 ## 📧 Contact
